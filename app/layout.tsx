@@ -16,8 +16,10 @@ export const metadata: Metadata = {
   title: "Amazon手数料計算ツール｜FBA販売手数料を自動計算",
   description:
     "Amazon販売時の手数料やFBAコストを簡単に計算できる無料ツール。せどり・物販ビジネスの商品利益確認に便利です。",
+  verification: {
+    google: "miCxwdbgRhGe66W37cjiBB0MFNO1tB2WJxh9Dm_zTjc",
+  },
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
