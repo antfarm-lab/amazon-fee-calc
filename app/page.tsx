@@ -70,6 +70,26 @@ export default function Home() {
           </ul>
         </div>
       </div>
+      <section className="mt-10 bg-white rounded-xl p-6">
+  <h2 className="text-xl font-bold mb-4">
+    Amazon販売手数料を把握することが重要な理由
+  </h2>
+
+  <p className="mb-3">
+    Amazonで商品を販売する場合、カテゴリーごとに販売手数料が発生します。
+    手数料を考慮しないと想定利益と実際の利益に差が出ます。
+  </p>
+
+  <p className="mb-3">
+    特にFBA販売やせどりでは利益率が小さいため、
+    手数料計算を事前に行うことが重要です。
+  </p>
+
+  <p>
+    このAmazon手数料計算ツールでは販売価格から
+    おおよその手数料を自動計算できます。
+  </p>
+</section>
       <section className="mt-10 rounded-xl border bg-white p-5">
   <h2 className="mb-3 text-lg font-bold">ほかの便利ツール</h2>
   <div className="grid gap-2 text-sm">
