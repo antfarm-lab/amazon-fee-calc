@@ -13,9 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Amazon手数料計算ツール｜FBA販売手数料を自動計算",
-  description:
-    "Amazon販売時の手数料やFBAコストを簡単に計算できる無料ツール。せどり・物販ビジネスの商品利益確認に便利です。",
+  title: "Amazon販売手数料計算ツール【無料】",
+description:
+  "Amazon販売時に発生する販売手数料を無料で自動計算。価格設定や利益確認を効率化したいAmazon物販・せどりユーザー向けです。",
+keywords: [
+  "Amazon手数料",
+  "Amazon販売手数料",
+  "FBA手数料",
+  "Amazon物販",
+  "せどり",
+  "利益計算",
+],
   verification: {
     google: "miCxwdbgRhGe66W37cjiBB0MFNO1tB2WJxh9Dm_zTjc",
   },
